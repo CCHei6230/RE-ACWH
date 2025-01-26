@@ -14,7 +14,10 @@ public class TeleportToNextPoint : MonoBehaviour
 
     void Anim_ToNextPoint()
     {
-        FindAnyObjectByType<PlayerBehaviour>().transform.position = NextPosition.position;
-        Camera.main.transform.position = NextPosition.position + new Vector3(0, 0.8f, -15f);
+        if (NextPosition)
+        {
+            FindAnyObjectByType<PlayerBehaviour>().transform.position = NextPosition.position;
+            Camera.main.transform.position = NextPosition.position + new Vector3(0, 0.8f, -15f);
+        }
     }
 }

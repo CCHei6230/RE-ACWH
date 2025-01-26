@@ -17,6 +17,7 @@ public class PlayerBehaviour : MonoBehaviour
     [SerializeField] PlayerLockOnSystem m_playerLockOnSystem;
     [SerializeField] PlayerAnimationState m_playerAnimationState;
     [SerializeField] bool m_canControl = true;
+    [SerializeField] bool m_died = false;
     [SerializeField] Transform m_shootPosition;
     [SerializeField] Transform m_UIEPPosition;
     #endregion
@@ -31,6 +32,7 @@ public class PlayerBehaviour : MonoBehaviour
         m_playerMovement = GetComponent<PlayerMovement>();
         m_playerAnimationState = GetComponent<PlayerAnimationState>();
         m_playerAnimationState.PlayerMovement = m_playerMovement;
+        m_playerSpSkill.Invoke_SPIncrease();
     }
     void FixedUpdate()
     {
@@ -57,7 +59,23 @@ public class PlayerBehaviour : MonoBehaviour
         m_playerLockOnSystem.CanLockOnTarget = m_playerMovement.Dashing;
     }
     void LateUpdate()
-    {
+    { 
+        if (m_playerStatus.HP <= 0 && !m_died)
+        {
+            m_died = true;
+            var tmp_data = Instantiate(new GameObject()).AddComponent<RestartData>();
+            tmp_data.TimerCurrent = FindFirstObjectByType<InGameTimer>().InGameTime;
+            tmp_data.SpawnPoint = GetComponent<PlayerSpawn>().SpawnPoint;
+            DontDestroyOnLoad(tmp_data);
+            
+            m_playerStatus.Invoke_Death();
+            Destroy(gameObject,0.15f);
+            
+            var tmp_ToNextPoint = FindAnyObjectByType<TeleportToNextPoint>();
+            tmp_ToNextPoint.NextPosition = transform;
+            tmp_ToNextPoint.FadeOut();
+            FindAnyObjectByType<InGameManager>().Invoke_Restart();
+        }
         m_playerMovement.FaceCheck();
         m_playerAnimationState.NextState = m_playerAnimationState.NextAnimationState
             (m_playerWeapons.ShootingCoolDown != -1 || m_playerWeapons.ExAtkCoolDown != -1 );
@@ -151,6 +169,7 @@ public class PlayerBehaviour : MonoBehaviour
     public void InputAction_SPSkill(InputAction.CallbackContext context)
     {
         if (!m_canControl) {return;}
+        m_playerSpSkill.SPSkill();
     }
     public void InputAction_LockOnDisable(InputAction.CallbackContext context)
     {

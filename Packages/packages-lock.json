@@ -1,5 +1,11 @@
 {
   "dependencies": {
+    "com.tactifail.mousesidebuttons": {
+      "version": "file:S:/Unity package/mousesidebuttons-source",
+      "depth": 0,
+      "source": "local",
+      "dependencies": {}
+    },
     "com.unity.2d.animation": {
       "version": "10.1.4",
       "depth": 1,

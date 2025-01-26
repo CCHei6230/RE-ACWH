@@ -28,7 +28,7 @@ public class PlayerAnimationState : MonoBehaviour
     {
         var tmp_atking = _Attacking?1:0;
         Animator.SetFloat("Attacking",tmp_atking);
-        if (PlayerMovement.Damageing) {return Anim_Damage;}
+        if (PlayerMovement.Damageing ) {return Anim_Damage;}
         else
         {
             if (PlayerMovement.AirFliping)

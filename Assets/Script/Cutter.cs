@@ -16,7 +16,7 @@ public class Cutter : WeaponBase
     #region Start & Update
     void Start()
     {
-        m_damage = 2;
+        m_damage = 4;
         Player = FindAnyObjectByType<PlayerMovement>();
     }
     void Update()

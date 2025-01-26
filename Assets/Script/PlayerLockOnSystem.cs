@@ -86,7 +86,7 @@ public class PlayerLockOnSystem : MonoBehaviour
                     }
                 }
                 other.transform.root.GetComponent<iCanBeLockOn>().BeLockOn(out m_TargetSprite , out m_TargetSlot );
-                m_LockOnMark = Instantiate(m_LockOnMarkPrefab, FindFirstObjectByType<Canvas>().transform);
+                m_LockOnMark = Instantiate(m_LockOnMarkPrefab, GameObject.Find("LockMark").transform);
                 var _LockOnMark = m_LockOnMark.GetComponent<UI_ObjFollowTarget>();
                 _LockOnMark.Target = m_TargetSprite.transform;
                 _LockOnMark.transform.position = Camera.main.WorldToScreenPoint(_LockOnMark.Target.position + _LockOnMark.Offset);

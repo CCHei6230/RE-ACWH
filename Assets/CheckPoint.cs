@@ -5,7 +5,7 @@ public class CheckPoint : MonoBehaviour
 {
     [SerializeField]Animator animator;
     readonly int Anim_Out = Animator.StringToHash("CheckPoint_Out");
-    [SerializeField]Transform NextPosition;
+    public Transform NextPosition;
     private void OnTriggerEnter2D(Collider2D other)
     {
         if (other.CompareTag("Player"))

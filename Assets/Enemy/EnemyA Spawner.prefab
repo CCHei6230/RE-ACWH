@@ -10,7 +10,6 @@ GameObject:
   m_Component:
   - component: {fileID: 780221821917005794}
   - component: {fileID: 4757407300698240831}
-  - component: {fileID: 7245449138088213246}
   m_Layer: 0
   m_Name: EnemyA Spawner
   m_TagString: Untagged
@@ -79,18 +78,3 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 7.5, y: 7}
   m_EdgeRadius: 0
---- !u!114 &7245449138088213246
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6911918476035844702}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 4f521f957304fe042acc5806dcb4b359, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_enemyToSpawn: {fileID: 5723352664701406530, guid: 322e03552ca782344b9f9ebbdd50b32b, type: 3}
-  m_spawnEffect: {fileID: 5488377972403932766, guid: 2902ed5a5a045c24183ae2a91c95529d, type: 3}
-  m_spawned: 0

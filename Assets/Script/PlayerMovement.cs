@@ -515,6 +515,7 @@ public class PlayerMovement : MonoBehaviour
     }
     IEnumerator IEnumerator_Damage()
     {
+        FindAnyObjectByType<InGameManager>().HPAnim();
         m_damageCount = 0;
         m_backYVeclocity = m_damageCountMax / 2  + 1;
         while (m_damageCount < m_damageCountMax)

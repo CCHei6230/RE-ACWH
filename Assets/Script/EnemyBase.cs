@@ -5,9 +5,11 @@ using UnityEngine.UI;
 using CustomEnum ;
 using UnityEngine.Serialization;
 using CustomInterfaces;
+using Unity.Mathematics;
+
 public abstract class EnemyBase : MonoBehaviour , iDamagable,iCanBeLockOn
 {
-    [SerializeField]
+    [SerializeField] private GameObject m_deathEffectPrefab;
     protected int m_HP = 100;
     protected int m_HPMax = 100;
     public int HP
@@ -35,7 +37,8 @@ public abstract class EnemyBase : MonoBehaviour , iDamagable,iCanBeLockOn
     protected void Start()
     {
         m_HP = 100;
-        m_HPUI = Instantiate(m_HPUIPrefab, FindFirstObjectByType<Canvas>().transform.root);
+        m_HPUI = Instantiate
+            (m_HPUIPrefab, GameObject.Find("UI_EnemyHP").transform);
         m_HPUIImage = m_HPUI.transform.GetChild(0).GetComponent<Image>();
     }
 
@@ -48,19 +51,19 @@ public abstract class EnemyBase : MonoBehaviour , iDamagable,iCanBeLockOn
             if (tmp_count % 2 == 0)
             {
                 m_Sprite.material = m_SpriteFlashMaterial;
-                transform.localScale = Vector3.one*1.15f;
+                m_Sprite.transform.localScale = Vector3.one*1.15f*3f;
             }
             else
             {
                 m_Sprite.material = m_SpriteMaterial;
-                transform.localScale = Vector3.one;
+                m_Sprite.transform.localScale  = Vector3.one*3f;
             }
             yield return  new WaitForFixedUpdate();
         }
         if (tmp_count >= 4)
         {
             m_Sprite.material = m_SpriteMaterial;
-            transform.localScale = Vector3.one;
+            m_Sprite.transform.localScale  = Vector3.one*3f;
             CoroutineDamageFlash=null;
         }
     }
@@ -86,5 +89,12 @@ public abstract class EnemyBase : MonoBehaviour , iDamagable,iCanBeLockOn
             Camera.main.WorldToScreenPoint(Sprite.transform.position + new Vector3(0,1.5f,0));
         m_HPUIImage.fillAmount = (float)m_HP / (float)m_HPMax;
         m_HPUIImage.color = Color.Lerp(Color.red,Color.yellow, m_HPUIImage.fillAmount);
+    }
+    public void Death()
+    {
+       var tmp_deathEff =  Instantiate(m_deathEffectPrefab, transform.position, Quaternion.identity);
+       tmp_deathEff.GetComponent<DeathSprite>().SetSprite(m_Sprite);
+       Destroy(tmp_deathEff,1f);
+        Destroy(gameObject);
     }
 }

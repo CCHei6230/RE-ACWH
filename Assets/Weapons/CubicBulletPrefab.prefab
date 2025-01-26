@@ -5273,7 +5273,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 51dc9d19e9aeabf4db4228f188f70a82, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_damage: 5
+  m_damage: 35
   m_speed: 2000
   m_lockOnSpeed: 0
   m_facing: 1

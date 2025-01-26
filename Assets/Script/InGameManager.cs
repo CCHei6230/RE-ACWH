@@ -21,21 +21,32 @@ public class InGameManager : MonoBehaviour
     [SerializeField] PlayerStatus m_PlayerStatus;
     [Header("ExWeapon")]
     [SerializeField] PlayerWeapons m_PlayerWeapons;
+    [SerializeField] PlayerSpSkill m_PlayerSpSkill;
+    [SerializeField] Image m_SPImage; 
 
+    
+    
     [SerializeField] Sprite[] m_weaponSprite; 
     [SerializeField] Image m_weaponImage; 
+    
+    
+    
+    
+    [SerializeField]Animator m_Anim_HP;
+    [SerializeField]Animator m_Anim_Damage;
     #endregion
     //------------------------------------------------------------------------------------------------------------
     #region Start & Update
     void Start()
     {
         m_PlayerWeapons = FindFirstObjectByType<PlayerWeapons>();
+        m_PlayerSpSkill = FindFirstObjectByType<PlayerSpSkill>();
     }
     void Update()
     {
-
+        m_SPImage.fillAmount = (float)m_PlayerSpSkill.SP / (float)m_PlayerSpSkill.SPMax;
+        m_Anim_Damage.SetInteger("HP",m_PlayerStatus.HP);
         m_weaponImage.sprite = m_weaponSprite[(int)m_PlayerWeapons.ExWeaponSlot];
-        
         if (Input.GetKeyDown(KeyCode.F1))
         {
             SceneManager.LoadScene(m_thisScene);
@@ -54,5 +65,22 @@ public class InGameManager : MonoBehaviour
         float _HPAmout = (float)m_PlayerStatus.HP / (float)m_PlayerStatus.HPMax;
         m_UIHP.fillAmount = _HPAmout;
     }
+
+    void Restart()
+    {
+        SceneManager.LoadScene(m_thisScene);
+    }
+
+    public void HPAnim()
+    {
+        m_Anim_HP.SetTrigger("In");
+        m_Anim_Damage.SetTrigger("In");
+    }
+
+    public void Invoke_Restart()
+    {
+        Invoke("Restart", 1.5f);
+    }
+    
     #endregion
 }

@@ -1,0 +1,6162 @@
+fileFormatVersion: 2
+guid: 016ccf2f39903434091bd50ac55dea2a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4654736007546196918
+    second: UI_Damagepng_0
+  - first:
+      213: -5268770061888258052
+    second: UI_Damagepng_1
+  - first:
+      213: 6372882258284939518
+    second: UI_Damagepng_2
+  - first:
+      213: -7538841165916990877
+    second: UI_Damagepng_3
+  - first:
+      213: -3506990447467836656
+    second: UI_Damagepng_4
+  - first:
+      213: 1986157985570383083
+    second: UI_Damagepng_5
+  - first:
+      213: 9105194087391217155
+    second: UI_Damagepng_6
+  - first:
+      213: 4068537029662159467
+    second: UI_Damagepng_7
+  - first:
+      213: -346824203391059367
+    second: UI_Damagepng_8
+  - first:
+      213: 6916885449009131174
+    second: UI_Damagepng_9
+  - first:
+      213: -5293948245900081120
+    second: UI_Damagepng_10
+  - first:
+      213: 2885285452666101213
+    second: UI_Damagepng_11
+  - first:
+      213: 1595239829619846169
+    second: UI_Damagepng_12
+  - first:
+      213: -5646628840029098994
+    second: UI_Damagepng_13
+  - first:
+      213: 3402698796670821935
+    second: UI_Damagepng_14
+  - first:
+      213: -4574402780460162862
+    second: UI_Damagepng_15
+  - first:
+      213: -8691058402571775404
+    second: UI_Damagepng_16
+  - first:
+      213: 837945084896388382
+    second: UI_Damagepng_17
+  - first:
+      213: -2737919064513565434
+    second: UI_Damagepng_18
+  - first:
+      213: 2759583017054740839
+    second: UI_Damagepng_19
+  - first:
+      213: -2286457228290399793
+    second: UI_Damagepng_20
+  - first:
+      213: -4183277381907731463
+    second: UI_Damagepng_21
+  - first:
+      213: 6844754651225685928
+    second: UI_Damagepng_22
+  - first:
+      213: -5377434365084447061
+    second: UI_Damagepng_23
+  - first:
+      213: -7903152204240228200
+    second: UI_Damagepng_24
+  - first:
+      213: 4490343121400399354
+    second: UI_Damagepng_25
+  - first:
+      213: -2472329460501640156
+    second: UI_Damagepng_26
+  - first:
+      213: 5493978228641161232
+    second: UI_Damagepng_27
+  - first:
+      213: -454153052369909257
+    second: UI_Damagepng_28
+  - first:
+      213: 4212044852096690440
+    second: UI_Damagepng_29
+  - first:
+      213: 9015650903388407854
+    second: UI_Damagepng_30
+  - first:
+      213: 5909417457923205581
+    second: UI_Damagepng_31
+  - first:
+      213: -353760215185875660
+    second: UI_Damagepng_32
+  - first:
+      213: 2159894405935952227
+    second: UI_Damagepng_33
+  - first:
+      213: -5771598028742748900
+    second: UI_Damagepng_34
+  - first:
+      213: 4760979586128282709
+    second: UI_Damagepng_35
+  - first:
+      213: 6775190968990958665
+    second: UI_Damagepng_36
+  - first:
+      213: -8233488926688197772
+    second: UI_Damagepng_37
+  - first:
+      213: -4797762565961675433
+    second: UI_Damagepng_38
+  - first:
+      213: -5082851694208670763
+    second: UI_Damagepng_39
+  - first:
+      213: 6036266991585527498
+    second: UI_Damagepng_40
+  - first:
+      213: 1553371532651411766
+    second: UI_Damagepng_41
+  - first:
+      213: -2045091380228386491
+    second: UI_Damagepng_42
+  - first:
+      213: -7468215655412815828
+    second: UI_Damagepng_43
+  - first:
+      213: 2434701589344555869
+    second: UI_Damagepng_44
+  - first:
+      213: 6748720476161128447
+    second: UI_Damagepng_45
+  - first:
+      213: 4943286741352506691
+    second: UI_Damagepng_46
+  - first:
+      213: 2485261015899596073
+    second: UI_Damagepng_47
+  - first:
+      213: -501610020361832465
+    second: UI_Damagepng_48
+  - first:
+      213: -4502233412302085446
+    second: UI_Damagepng_49
+  - first:
+      213: -3293699293988781941
+    second: UI_Damagepng_50
+  - first:
+      213: 216079737417136875
+    second: UI_Damagepng_51
+  - first:
+      213: 3869698679412944509
+    second: UI_Damagepng_52
+  - first:
+      213: 306005803270878251
+    second: UI_Damagepng_53
+  - first:
+      213: -2213826787729500054
+    second: UI_Damagepng_54
+  - first:
+      213: -487266794035213958
+    second: UI_Damagepng_55
+  - first:
+      213: -8130905646832449417
+    second: UI_Damagepng_56
+  - first:
+      213: 8478130581455836384
+    second: UI_Damagepng_57
+  - first:
+      213: -275914397782244060
+    second: UI_Damagepng_58
+  - first:
+      213: 734136990501031738
+    second: UI_Damagepng_59
+  - first:
+      213: 938241708817577701
+    second: UI_Damagepng_60
+  - first:
+      213: 5987353649743393747
+    second: UI_Damagepng_61
+  - first:
+      213: 250693375421528207
+    second: UI_Damagepng_62
+  - first:
+      213: 8970071098530815871
+    second: UI_Damagepng_63
+  - first:
+      213: -5894598194419986352
+    second: UI_Damagepng_64
+  - first:
+      213: -4234977817360664351
+    second: UI_Damagepng_65
+  - first:
+      213: 845980587847895543
+    second: UI_Damagepng_66
+  - first:
+      213: 8948440533500856516
+    second: UI_Damagepng_67
+  - first:
+      213: 4834744826308970884
+    second: UI_Damagepng_68
+  - first:
+      213: -8595854316868759637
+    second: UI_Damagepng_69
+  - first:
+      213: -6219670946726033683
+    second: UI_Damagepng_70
+  - first:
+      213: -2319770081169573822
+    second: UI_Damagepng_71
+  - first:
+      213: 2193190695298793319
+    second: UI_Damagepng_72
+  - first:
+      213: -2633408106833732907
+    second: UI_Damagepng_73
+  - first:
+      213: 3700266502357906223
+    second: UI_Damagepng_74
+  - first:
+      213: 1206726293398327192
+    second: UI_Damagepng_75
+  - first:
+      213: -7306918888731956014
+    second: UI_Damagepng_76
+  - first:
+      213: 3055254805428966136
+    second: UI_Damagepng_77
+  - first:
+      213: 3928036191858695840
+    second: UI_Damagepng_78
+  - first:
+      213: -3451691780360032173
+    second: UI_Damagepng_79
+  - first:
+      213: 3789719274599986403
+    second: UI_Damagepng_80
+  - first:
+      213: -8271510052372805118
+    second: UI_Damagepng_81
+  - first:
+      213: 8641764867019020480
+    second: UI_Damagepng_82
+  - first:
+      213: -1867493682546820330
+    second: UI_Damagepng_83
+  - first:
+      213: -2828925857598705418
+    second: UI_Damagepng_84
+  - first:
+      213: -3137673315532940841
+    second: UI_Damagepng_85
+  - first:
+      213: 6567438277434873517
+    second: UI_Damagepng_86
+  - first:
+      213: -3697752305983506278
+    second: UI_Damagepng_87
+  - first:
+      213: 3627043148446392226
+    second: UI_Damagepng_88
+  - first:
+      213: -7204793293472380873
+    second: UI_Damagepng_89
+  - first:
+      213: -6554251780197185020
+    second: UI_Damagepng_90
+  - first:
+      213: -6894950925708124114
+    second: UI_Damagepng_91
+  - first:
+      213: -5271254632077447414
+    second: UI_Damagepng_92
+  - first:
+      213: 5716966265175803771
+    second: UI_Damagepng_93
+  - first:
+      213: 1744884305754515661
+    second: UI_Damagepng_94
+  - first:
+      213: -8352481288998764462
+    second: UI_Damagepng_95
+  - first:
+      213: -3924574095052878354
+    second: UI_Damagepng_96
+  - first:
+      213: 5079495784910217162
+    second: UI_Damagepng_97
+  - first:
+      213: -4042287637248766710
+    second: UI_Damagepng_98
+  - first:
+      213: 1450405832861247108
+    second: UI_Damagepng_99
+  - first:
+      213: -3049351359458390422
+    second: UI_Damagepng_100
+  - first:
+      213: 7541592071953383675
+    second: UI_Damagepng_101
+  - first:
+      213: -574245398544553475
+    second: UI_Damagepng_102
+  - first:
+      213: -7513534448425715623
+    second: UI_Damagepng_103
+  - first:
+      213: -403983628687542722
+    second: UI_Damagepng_104
+  - first:
+      213: 6476769229996029660
+    second: UI_Damagepng_105
+  - first:
+      213: -7925582616413350415
+    second: UI_Damagepng_106
+  - first:
+      213: 4581253934238597104
+    second: UI_Damagepng_107
+  - first:
+      213: -8495761550910349231
+    second: UI_Damagepng_108
+  - first:
+      213: -3823530357384187125
+    second: UI_Damagepng_109
+  - first:
+      213: -1634607337716181697
+    second: UI_Damagepng_110
+  - first:
+      213: 222386777604726370
+    second: UI_Damagepng_111
+  - first:
+      213: 1043125950074348762
+    second: UI_Damagepng_112
+  - first:
+      213: 6687401334852163513
+    second: UI_Damagepng_113
+  - first:
+      213: -8385893978699623488
+    second: UI_Damagepng_114
+  - first:
+      213: -2673450853557073130
+    second: UI_Damagepng_115
+  - first:
+      213: -6337280287915695605
+    second: UI_Damagepng_116
+  - first:
+      213: 309890829312693057
+    second: UI_Damagepng_117
+  - first:
+      213: 8424953044272149775
+    second: UI_Damagepng_118
+  - first:
+      213: -6318941821990041861
+    second: UI_Damagepng_119
+  - first:
+      213: -1641699523967431530
+    second: UI_Damagepng_120
+  - first:
+      213: -5556350203112202192
+    second: UI_Damagepng_121
+  - first:
+      213: 773117339603572823
+    second: UI_Damagepng_122
+  - first:
+      213: -2199511898855812817
+    second: UI_Damagepng_123
+  - first:
+      213: 1002940020859628571
+    second: UI_Damagepng_124
+  - first:
+      213: -145922196190450176
+    second: UI_Damagepng_125
+  - first:
+      213: 8249386005268315795
+    second: UI_Damagepng_126
+  - first:
+      213: 4482315039969900288
+    second: UI_Damagepng_127
+  - first:
+      213: -5186588800831138835
+    second: UI_Damagepng_128
+  - first:
+      213: 6804286821819251175
+    second: UI_Damagepng_129
+  - first:
+      213: 6705298441668744176
+    second: UI_Damagepng_130
+  - first:
+      213: 168825451130482652
+    second: UI_Damagepng_131
+  - first:
+      213: 4574271685230276358
+    second: UI_Damagepng_132
+  - first:
+      213: 686418336521285005
+    second: UI_Damagepng_133
+  - first:
+      213: 2878724203981307519
+    second: UI_Damagepng_134
+  - first:
+      213: 8097873742294415259
+    second: UI_Damagepng_135
+  - first:
+      213: 7099602224068941660
+    second: UI_Damagepng_136
+  - first:
+      213: -4765210226528751717
+    second: UI_Damagepng_137
+  - first:
+      213: 2307094079855809918
+    second: UI_Damagepng_138
+  - first:
+      213: 2447367494164149777
+    second: UI_Damagepng_139
+  - first:
+      213: 2474220084543948287
+    second: UI_Damagepng_140
+  - first:
+      213: -1576357345723855189
+    second: UI_Damagepng_141
+  - first:
+      213: 7073183739970735624
+    second: UI_Damagepng_142
+  - first:
+      213: -738006463459142807
+    second: UI_Damagepng_143
+  - first:
+      213: -801275037413367897
+    second: UI_Damagepng_144
+  - first:
+      213: 1173234457687600351
+    second: UI_Damagepng_145
+  - first:
+      213: 5549505706721593094
+    second: UI_Damagepng_146
+  - first:
+      213: 1387480153754032392
+    second: UI_Damagepng_147
+  - first:
+      213: -6731689866222563272
+    second: UI_Damagepng_148
+  - first:
+      213: 8766717953158569526
+    second: UI_Damagepng_149
+  - first:
+      213: -5010455775288550393
+    second: UI_Damagepng_150
+  - first:
+      213: -4258043280857390755
+    second: UI_Damagepng_151
+  - first:
+      213: 2556840579599685922
+    second: UI_Damagepng_152
+  - first:
+      213: 2992956711607080613
+    second: UI_Damagepng_153
+  - first:
+      213: 7258226147288093097
+    second: UI_Damagepng_154
+  - first:
+      213: -8622480419320383477
+    second: UI_Damagepng_155
+  - first:
+      213: -2667805098797646474
+    second: UI_Damagepng_156
+  - first:
+      213: -5066138856682696895
+    second: UI_Damagepng_157
+  - first:
+      213: 3607103504170444263
+    second: UI_Damagepng_158
+  - first:
+      213: 946246336748692761
+    second: UI_Damagepng_159
+  - first:
+      213: -4737036270535599295
+    second: UI_Damagepng_160
+  - first:
+      213: -6119927344611166559
+    second: UI_Damagepng_161
+  - first:
+      213: -7179023958669824443
+    second: UI_Damagepng_162
+  - first:
+      213: 1246962229946395790
+    second: UI_Damagepng_163
+  - first:
+      213: -3657932863368818142
+    second: UI_Damagepng_164
+  - first:
+      213: 4895540026957399092
+    second: UI_Damagepng_165
+  - first:
+      213: 3295106406790608365
+    second: UI_Damagepng_166
+  - first:
+      213: -3926646641787751110
+    second: UI_Damagepng_167
+  - first:
+      213: 8168493559333297636
+    second: UI_Damagepng_168
+  - first:
+      213: 252619066853243878
+    second: UI_Damagepng_169
+  - first:
+      213: 1952809435600899201
+    second: UI_Damagepng_170
+  - first:
+      213: -8300224031534570091
+    second: UI_Damagepng_171
+  - first:
+      213: 5194191424683096102
+    second: UI_Damagepng_172
+  - first:
+      213: -6736536441724080732
+    second: UI_Damagepng_173
+  - first:
+      213: -1079551051908722977
+    second: UI_Damagepng_174
+  - first:
+      213: 3721858121894100432
+    second: UI_Damagepng_175
+  - first:
+      213: -1141502772576295023
+    second: UI_Damagepng_176
+  - first:
+      213: 155340361177613980
+    second: UI_Damagepng_177
+  - first:
+      213: 2048955687496337925
+    second: UI_Damagepng_178
+  - first:
+      213: 675800264998992757
+    second: UI_Damagepng_179
+  - first:
+      213: -7965240737117046461
+    second: UI_Damagepng_180
+  - first:
+      213: -6723032989004771014
+    second: UI_Damagepng_181
+  - first:
+      213: -2682769871704468011
+    second: UI_Damagepng_182
+  - first:
+      213: 7277009086213448692
+    second: UI_Damagepng_183
+  - first:
+      213: -7904300218977364507
+    second: UI_Damagepng_184
+  - first:
+      213: 2486269949749895052
+    second: UI_Damagepng_185
+  - first:
+      213: 6862816440065479228
+    second: UI_Damagepng_186
+  - first:
+      213: 3272718093557132486
+    second: UI_Damagepng_187
+  - first:
+      213: -5187479430772096390
+    second: UI_Damagepng_188
+  - first:
+      213: 7432860187304482974
+    second: UI_Damagepng_189
+  - first:
+      213: -8971177282191182065
+    second: UI_Damagepng_190
+  - first:
+      213: -7848118450080978781
+    second: UI_Damagepng_191
+  - first:
+      213: -5160426214687135659
+    second: UI_Damagepng_192
+  - first:
+      213: 8950322247122533370
+    second: UI_Damagepng_193
+  - first:
+      213: 7947827048272138282
+    second: UI_Damagepng_194
+  - first:
+      213: -8212778336374205269
+    second: UI_Damagepng_195
+  - first:
+      213: -559258199294985979
+    second: UI_Damagepng_196
+  - first:
+      213: -7082209972293922800
+    second: UI_Damagepng_197
+  - first:
+      213: -2765842809087535221
+    second: UI_Damagepng_198
+  - first:
+      213: -5870364340115929551
+    second: UI_Damagepng_199
+  - first:
+      213: 2417708382383288383
+    second: UI_Damagepng_200
+  - first:
+      213: -5128483401775519966
+    second: UI_Damagepng_201
+  - first:
+      213: -3686543964580078166
+    second: UI_Damagepng_202
+  - first:
+      213: -3181588481924491690
+    second: UI_Damagepng_203
+  - first:
+      213: 1098598319154151624
+    second: UI_Damagepng_204
+  - first:
+      213: -1142962263333078604
+    second: UI_Damagepng_205
+  - first:
+      213: -6941699695362568102
+    second: UI_Damagepng_206
+  - first:
+      213: -6778006455641147057
+    second: UI_Damagepng_207
+  - first:
+      213: 4851699356178500987
+    second: UI_Damagepng_208
+  - first:
+      213: -251265738874944675
+    second: UI_Damagepng_209
+  - first:
+      213: -4249731797430768778
+    second: UI_Damagepng_210
+  - first:
+      213: 3644084483146476082
+    second: UI_Damagepng_211
+  - first:
+      213: 1037299971447560696
+    second: UI_Damagepng_212
+  - first:
+      213: 2433604001797701052
+    second: UI_Damagepng_213
+  - first:
+      213: -2474357767067926599
+    second: UI_Damagepng_214
+  - first:
+      213: -4476023702375052888
+    second: UI_Damagepng_215
+  - first:
+      213: -5979457924755798269
+    second: UI_Damagepng_216
+  - first:
+      213: -9072014944626459628
+    second: UI_Damagepng_217
+  - first:
+      213: 7702473828570846204
+    second: UI_Damagepng_218
+  - first:
+      213: -2414483793916253932
+    second: UI_Damagepng_219
+  - first:
+      213: 8368611225756205548
+    second: UI_Damagepng_220
+  - first:
+      213: 7975236000420526818
+    second: UI_Damagepng_221
+  - first:
+      213: 4562950347736073270
+    second: UI_Damagepng_222
+  - first:
+      213: -3303397420365021484
+    second: UI_Damagepng_223
+  - first:
+      213: 6520596182648064175
+    second: UI_Damagepng_224
+  - first:
+      213: 2987828594061652340
+    second: UI_Damagepng_225
+  - first:
+      213: -5225709029498203776
+    second: UI_Damagepng_226
+  - first:
+      213: -266416342540360239
+    second: UI_Damagepng_227
+  - first:
+      213: -263368121280306858
+    second: UI_Damagepng_228
+  - first:
+      213: 1846024195317123874
+    second: UI_Damagepng_229
+  - first:
+      213: -2996571984005068884
+    second: UI_Damagepng_230
+  - first:
+      213: 7322199159404608549
+    second: UI_Damagepng_231
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: UI_Damagepng_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 950
+        width: 234
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b3d20dacb1f89040800000000000000
+      internalID: 4654736007546196918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_1
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 1070
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cffffe93b8191e6b0800000000000000
+      internalID: -5268770061888258052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_2
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 1049
+        width: 45
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef8867026a6017850800000000000000
+      internalID: 6372882258284939518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_3
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 773
+        width: 184
+        height: 307
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3621d6fe6e7a06790800000000000000
+      internalID: -7538841165916990877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_4
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1068
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01bcdf3d4caa45fc0800000000000000
+      internalID: -3506990447467836656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_5
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 1073
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be46abd2a20409b10800000000000000
+      internalID: 1986157985570383083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_6
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 1075
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 306c0f5f7c52c5e70800000000000000
+      internalID: 9105194087391217155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_7
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 1069
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6239885fd8567830800000000000000
+      internalID: 4068537029662159467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_8
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 1075
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95a3e5d7935df2bf0800000000000000
+      internalID: -346824203391059367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_9
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 1064
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aee14c2ba6bdff50800000000000000
+      internalID: 6916885449009131174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_10
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 1070
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 028c2df6e1e1886b0800000000000000
+      internalID: -5293948245900081120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_11
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 1010
+        width: 59
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dddd3c115d79a0820800000000000000
+      internalID: 2885285452666101213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_12
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 1056
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91cab005c2e632610800000000000000
+      internalID: 1595239829619846169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_13
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 1070
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0ce693bcf423a1b0800000000000000
+      internalID: -5646628840029098994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_14
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 781
+        width: 210
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f26a63df680d83f20800000000000000
+      internalID: 3402698796670821935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_15
+      rect:
+        serializedVersion: 2
+        x: 1515
+        y: 1067
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d0ec1b48e47480c0800000000000000
+      internalID: -4574402780460162862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_16
+      rect:
+        serializedVersion: 2
+        x: 1523
+        y: 1074
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45219881e68236780800000000000000
+      internalID: -8691058402571775404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_17
+      rect:
+        serializedVersion: 2
+        x: 1526
+        y: 1068
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e15a8867d9af0ab00800000000000000
+      internalID: 837945084896388382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_18
+      rect:
+        serializedVersion: 2
+        x: 1533
+        y: 1058
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60d26efed15f00ad0800000000000000
+      internalID: -2737919064513565434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_19
+      rect:
+        serializedVersion: 2
+        x: 1635
+        y: 959
+        width: 185
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 761afb312220c4620800000000000000
+      internalID: 2759583017054740839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_20
+      rect:
+        serializedVersion: 2
+        x: 1679
+        y: 990
+        width: 157
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc160a9d34fd440e0800000000000000
+      internalID: -2286457228290399793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_21
+      rect:
+        serializedVersion: 2
+        x: 1723
+        y: 1008
+        width: 127
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fba676926302f5c0800000000000000
+      internalID: -4183277381907731463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_22
+      rect:
+        serializedVersion: 2
+        x: 1774
+        y: 1027
+        width: 96
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8af720917147dfe50800000000000000
+      internalID: 6844754651225685928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 958
+        width: 208
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baec9229fe38f55b0800000000000000
+      internalID: -5377434365084447061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_24
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 1062
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8907a6461fc525290800000000000000
+      internalID: -7903152204240228200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_25
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 1066
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af580be2747e05e30800000000000000
+      internalID: 4490343121400399354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_26
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 1067
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42c0113647580bdd0800000000000000
+      internalID: -2472329460501640156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_27
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 1060
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 010e2e137188e3c40800000000000000
+      internalID: 5493978228641161232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_28
+      rect:
+        serializedVersion: 2
+        x: 1508
+        y: 1061
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f905df743682b9f0800000000000000
+      internalID: -454153052369909257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_29
+      rect:
+        serializedVersion: 2
+        x: 1519
+        y: 1062
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8096c330a70347a30800000000000000
+      internalID: 4212044852096690440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_30
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 1056
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e28456bcab60e1d70800000000000000
+      internalID: 9015650903388407854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_31
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 1050
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc921095ed7720250800000000000000
+      internalID: 5909417457923205581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_32
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 1053
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43d1e2665f0371bf0800000000000000
+      internalID: -353760215185875660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_33
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 1039
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3617a22c48c79fd10800000000000000
+      internalID: 2159894405935952227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_34
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 1053
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c15917e0c2a27efa0800000000000000
+      internalID: -5771598028742748900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_35
+      rect:
+        serializedVersion: 2
+        x: 1493
+        y: 1048
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 554001675b5621240800000000000000
+      internalID: 4760979586128282709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_36
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1054
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94404203a40560e50800000000000000
+      internalID: 6775190968990958665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_37
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 1051
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47343aea175ccbd80800000000000000
+      internalID: -8233488926688197772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_38
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 1056
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75d003bad5cea6db0800000000000000
+      internalID: -4797762565961675433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_39
+      rect:
+        serializedVersion: 2
+        x: 1613
+        y: 1039
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d323b070551679b0800000000000000
+      internalID: -5082851694208670763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_40
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 1044
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac60fdae8d025c350800000000000000
+      internalID: 6036266991585527498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_41
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 1038
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63934e7cd2fae8510800000000000000
+      internalID: 1553371532651411766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_42
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1042
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 541164c99306e93e0800000000000000
+      internalID: -2045091380228386491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_43
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 1042
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c28ab110e619b5890800000000000000
+      internalID: -7468215655412815828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_44
+      rect:
+        serializedVersion: 2
+        x: 1485
+        y: 1041
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5316f6223cc9c120800000000000000
+      internalID: 2434701589344555869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_45
+      rect:
+        serializedVersion: 2
+        x: 1492
+        y: 1039
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff73dfd448548ad50800000000000000
+      internalID: 6748720476161128447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_46
+      rect:
+        serializedVersion: 2
+        x: 1499
+        y: 1045
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 345e631c9151a9440800000000000000
+      internalID: 4943286741352506691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_47
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 1019
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92562daf9bb6d7220800000000000000
+      internalID: 2485261015899596073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_48
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1032
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe77e88185ce909f0800000000000000
+      internalID: -501610020361832465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_49
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 1026
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab2e6dbb09ad481c0800000000000000
+      internalID: -4502233412302085446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_50
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 1033
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8008d061fd6a42d0800000000000000
+      internalID: -3293699293988781941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_51
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 1031
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bea78e7506baff200800000000000000
+      internalID: 216079737417136875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_52
+      rect:
+        serializedVersion: 2
+        x: 1387
+        y: 1027
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7ee436427ee3b530800000000000000
+      internalID: 3869698679412944509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_53
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 1028
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b243b2328a62f3400800000000000000
+      internalID: 306005803270878251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_54
+      rect:
+        serializedVersion: 2
+        x: 1477
+        y: 1034
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6893231448e641e0800000000000000
+      internalID: -2213826787729500054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_55
+      rect:
+        serializedVersion: 2
+        x: 1485
+        y: 1033
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7900b6be61ec39f0800000000000000
+      internalID: -487266794035213958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_56
+      rect:
+        serializedVersion: 2
+        x: 1593
+        y: 1025
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7788552c468392f80800000000000000
+      internalID: -8130905646832449417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_57
+      rect:
+        serializedVersion: 2
+        x: 1606
+        y: 1034
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e41d0348de58a570800000000000000
+      internalID: 8478130581455836384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_58
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 1023
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42506cb2151cb2cf0800000000000000
+      internalID: -275914397782244060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_59
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 1020
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3fc94704bd203a00800000000000000
+      internalID: 734136990501031738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_60
+      rect:
+        serializedVersion: 2
+        x: 1462
+        y: 1016
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e6f687fcdd450d00800000000000000
+      internalID: 938241708817577701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_61
+      rect:
+        serializedVersion: 2
+        x: 1471
+        y: 1021
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d3f79d0c6a571350800000000000000
+      internalID: 5987353649743393747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_62
+      rect:
+        serializedVersion: 2
+        x: 1478
+        y: 1027
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f883b85fb44aa7300800000000000000
+      internalID: 250693375421528207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_63
+      rect:
+        serializedVersion: 2
+        x: 1596
+        y: 1011
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7f5ded73281c7c70800000000000000
+      internalID: 8970071098530815871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_64
+      rect:
+        serializedVersion: 2
+        x: 1822
+        y: 979
+        width: 98
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05010ff4c2e223ea0800000000000000
+      internalID: -5894598194419986352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 928
+        width: 178
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e8fe8cec165a35c0800000000000000
+      internalID: -4234977817360664351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 876
+        width: 218
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f9cc89ccd68dbb00800000000000000
+      internalID: 845980587847895543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_67
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 978
+        width: 55
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c8860d114f3f2c70800000000000000
+      internalID: 8948440533500856516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_68
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 1014
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 489cdcfcdc6781340800000000000000
+      internalID: 4834744826308970884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_69
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 1005
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baf8706aa0465b880800000000000000
+      internalID: -8595854316868759637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_70
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 1009
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de6c3982a3a4fa9a0800000000000000
+      internalID: -6219670946726033683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_71
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 996
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 248fe4fd6658ecfd0800000000000000
+      internalID: -2319770081169573822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_72
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 981
+        width: 33
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76ff9fd3157cf6e10800000000000000
+      internalID: 2193190695298793319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_73
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 1004
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5da9a8b7741447bd0800000000000000
+      internalID: -2633408106833732907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_74
+      rect:
+        serializedVersion: 2
+        x: 1454
+        y: 1010
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f23f15f67ccf95330800000000000000
+      internalID: 3700266502357906223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_75
+      rect:
+        serializedVersion: 2
+        x: 1691
+        y: 886
+        width: 229
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89f812b9b272fb010800000000000000
+      internalID: 1206726293398327192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_76
+      rect:
+        serializedVersion: 2
+        x: 1731
+        y: 929
+        width: 189
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dc2a820cfb989a90800000000000000
+      internalID: -7306918888731956014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 893
+        width: 176
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f216efde02766a20800000000000000
+      internalID: 3055254805428966136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_78
+      rect:
+        serializedVersion: 2
+        x: 1625
+        y: 959
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ae9d98da10338630800000000000000
+      internalID: 3928036191858695840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_79
+      rect:
+        serializedVersion: 2
+        x: 1639
+        y: 967
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35031851d902910d0800000000000000
+      internalID: -3451691780360032173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_80
+      rect:
+        serializedVersion: 2
+        x: 1646
+        y: 971
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e4bbf8f999c79430800000000000000
+      internalID: 3789719274599986403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_81
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 946
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20a0f348e61b53d80800000000000000
+      internalID: -8271510052372805118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_82
+      rect:
+        serializedVersion: 2
+        x: 1613
+        y: 959
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c89e1b4c57bde770800000000000000
+      internalID: 8641764867019020480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_83
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 941
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61bb28fd3645516e0800000000000000
+      internalID: -1867493682546820330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_84
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 951
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f079e9bbe2adb8d0800000000000000
+      internalID: -2828925857598705418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_85
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 946
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d9df6e5ebeb474d0800000000000000
+      internalID: -3137673315532940841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_86
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 933
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da61fca415a342b50800000000000000
+      internalID: 6567438277434873517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_87
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 941
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a98b8768ed1feacc0800000000000000
+      internalID: -3697752305983506278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_88
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 932
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2af5920d688d55230800000000000000
+      internalID: 3627043148446392226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_89
+      rect:
+        serializedVersion: 2
+        x: 1763
+        y: 875
+        width: 157
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73846761cae630c90800000000000000
+      internalID: -7204793293472380873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 890
+        width: 71
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40a00e85bbe9a05a0800000000000000
+      internalID: -6554251780197185020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_91
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 918
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e20aa610aa63050a0800000000000000
+      internalID: -6894950925708124114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_92
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 912
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0f246627ddb8d6b0800000000000000
+      internalID: -5271254632077447414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_93
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 898
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7702b4478eb65f40800000000000000
+      internalID: 5716966265175803771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_94
+      rect:
+        serializedVersion: 2
+        x: 1698
+        y: 824
+        width: 222
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc8e6a20803173810800000000000000
+      internalID: 1744884305754515661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_95
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 863
+        width: 129
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 250c1206586061c80800000000000000
+      internalID: -8352481288998764462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_96
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 894
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eed4ca167ac1989c0800000000000000
+      internalID: -3924574095052878354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_97
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 892
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acfdaa9018efd7640800000000000000
+      internalID: 5079495784910217162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_98
+      rect:
+        serializedVersion: 2
+        x: 1684
+        y: 898
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0d85d59fc8e6e7c0800000000000000
+      internalID: -4042287637248766710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_99
+      rect:
+        serializedVersion: 2
+        x: 1689
+        y: 897
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48669df9b60e02410800000000000000
+      internalID: 1450405832861247108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_100
+      rect:
+        serializedVersion: 2
+        x: 1698
+        y: 901
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6ec02048178ea5d0800000000000000
+      internalID: -3049351359458390422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_101
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 853
+        width: 124
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf00fa9480e19a860800000000000000
+      internalID: 7541592071953383675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_102
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 847
+        width: 116
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df969dd3aded708f0800000000000000
+      internalID: -574245398544553475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_103
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 890
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 958bce14a309ab790800000000000000
+      internalID: -7513534448425715623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_104
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 886
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e367105b703c46af0800000000000000
+      internalID: -403983628687542722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_105
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 886
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd6f71e9c4b12e950800000000000000
+      internalID: 6476769229996029660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_106
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 797
+        width: 246
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f5dba61a9ca20290800000000000000
+      internalID: -7925582616413350415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_107
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 864
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fff6204e22e39f30800000000000000
+      internalID: 4581253934238597104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 724
+        width: 331
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1502195c1edf81a80800000000000000
+      internalID: -8495761550910349231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_109
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 844
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b03713cd56710fac0800000000000000
+      internalID: -3823530357384187125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_110
+      rect:
+        serializedVersion: 2
+        x: 1709
+        y: 835
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f351e207945b059e0800000000000000
+      internalID: -1634607337716181697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_111
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 832
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26e9fd19893161300800000000000000
+      internalID: 222386777604726370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_112
+      rect:
+        serializedVersion: 2
+        x: 1570
+        y: 679
+        width: 350
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad46c2e568de97e00800000000000000
+      internalID: 1043125950074348762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_113
+      rect:
+        serializedVersion: 2
+        x: 1695
+        y: 830
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b7165a251c6ecc50800000000000000
+      internalID: 6687401334852163513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_114
+      rect:
+        serializedVersion: 2
+        x: 1812
+        y: 807
+        width: 108
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c395835bd15f9b80800000000000000
+      internalID: -8385893978699623488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_115
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 817
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61b044dfc9ef5ead0800000000000000
+      internalID: -2673450853557073130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_116
+      rect:
+        serializedVersion: 2
+        x: 1762
+        y: 741
+        width: 158
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0223bc87257d08a0800000000000000
+      internalID: -6337280287915695605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_117
+      rect:
+        serializedVersion: 2
+        x: 1767
+        y: 712
+        width: 153
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14395504114fc4400800000000000000
+      internalID: 309890829312693057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_118
+      rect:
+        serializedVersion: 2
+        x: 1828
+        y: 728
+        width: 92
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f05ff2d08227be470800000000000000
+      internalID: 8424953044272149775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_119
+      rect:
+        serializedVersion: 2
+        x: 1833
+        y: 736
+        width: 87
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf68cef54eb9e48a0800000000000000
+      internalID: -6318941821990041861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 639
+        width: 307
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69c4ef52bf28739e0800000000000000
+      internalID: -1641699523967431530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_121
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 675
+        width: 79
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 030e3d7dde0e3e2b0800000000000000
+      internalID: -5556350203112202192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_122
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 669
+        width: 64
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75814cccf1aaaba00800000000000000
+      internalID: 773117339603572823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_123
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 651
+        width: 59
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f21547dd493c971e0800000000000000
+      internalID: -2199511898855812817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_124
+      rect:
+        serializedVersion: 2
+        x: 1615
+        y: 624
+        width: 305
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1c6c5a92a82bed00800000000000000
+      internalID: 1002940020859628571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_125
+      rect:
+        serializedVersion: 2
+        x: 1860
+        y: 650
+        width: 60
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00e2933298499fdf0800000000000000
+      internalID: -145922196190450176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_126
+      rect:
+        serializedVersion: 2
+        x: 1870
+        y: 655
+        width: 50
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39eb81b5dd4bb7270800000000000000
+      internalID: 8249386005268315795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_127
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 86
+        width: 427
+        height: 524
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 007fbc0d7c1643e30800000000000000
+      internalID: 4482315039969900288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_128
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 521
+        width: 78
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de3d07227f88508b0800000000000000
+      internalID: -5186588800831138835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_129
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 452
+        width: 90
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e9786450dead6e50800000000000000
+      internalID: 6804286821819251175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_130
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 449
+        width: 65
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f355a018610e0d50800000000000000
+      internalID: 6705298441668744176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_131
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 438
+        width: 94
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdf6da37ad9c75200800000000000000
+      internalID: 168825451130482652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_132
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 430
+        width: 52
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60f2748bcd31b7f30800000000000000
+      internalID: 4574271685230276358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_133
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 370
+        width: 54
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8d6aab17d5a68900800000000000000
+      internalID: 686418336521285005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_134
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 313
+        width: 90
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7eff90596843f720800000000000000
+      internalID: 2878724203981307519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_135
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 306
+        width: 106
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b97fb65a34d616070800000000000000
+      internalID: 8097873742294415259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_136
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 296
+        width: 123
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c57d3348b9ad68260800000000000000
+      internalID: 7099602224068941660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_137
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 279
+        width: 80
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9fe1bfcb829eddb0800000000000000
+      internalID: -4765210226528751717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_138
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 207
+        width: 151
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e75563597d1740020800000000000000
+      internalID: 2307094079855809918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_139
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 190
+        width: 93
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 116fd7ce4cbc6f120800000000000000
+      internalID: 2447367494164149777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_140
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 99
+        width: 156
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff50163de02365220800000000000000
+      internalID: 2474220084543948287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_141
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 14
+        width: 234
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bae4d019857af1ae0800000000000000
+      internalID: -1576357345723855189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_142
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2
+        width: 209
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80e460cd22ff82260800000000000000
+      internalID: 7073183739970735624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_143
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 0
+        width: 166
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9635397180312c5f0800000000000000
+      internalID: -738006463459142807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_144
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 337
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7af969b499c41e4f0800000000000000
+      internalID: -801275037413367897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_145
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 0
+        width: 157
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdca7b0f58a284010800000000000000
+      internalID: 1173234457687600351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_146
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 167
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 607c428a90ec30d40800000000000000
+      internalID: 5549505706721593094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_147
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 174
+        width: 46
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 809d96149d1514310800000000000000
+      internalID: 1387480153754032392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_148
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 152
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83015b19bbb3492a0800000000000000
+      internalID: -6731689866222563272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_149
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 148
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63e5e04c783a9a970800000000000000
+      internalID: 8766717953158569526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_150
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 152
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70c1f17d409477ab0800000000000000
+      internalID: -5010455775288550393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_151
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 149
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d51a146323468e4c0800000000000000
+      internalID: -4258043280857390755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_152
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 107
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 229d75ed5f8bb7320800000000000000
+      internalID: 2556840579599685922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_153
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 116
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a61677954e198920800000000000000
+      internalID: 2992956711607080613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_154
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 132
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a11f88a9366ab460800000000000000
+      internalID: 7258226147288093097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_155
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 83
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b08b5a31ebbc65880800000000000000
+      internalID: -8622480419320383477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_156
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 75
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67db034b56d0afad0800000000000000
+      internalID: -2667805098797646474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_157
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 80
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14fcf982d8571b9b0800000000000000
+      internalID: -5066138856682696895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_158
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 82
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e5652a96810f0230800000000000000
+      internalID: 3607103504170444263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_159
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 84
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 915abe3a70eb12d00800000000000000
+      internalID: 946246336748692761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_160
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 97
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14b959e1c9aa24eb0800000000000000
+      internalID: -4737036270535599295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_161
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 110
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a6704d3186a11ba0800000000000000
+      internalID: -6119927344611166559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_162
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 122
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54e6775eebbfe5c90800000000000000
+      internalID: -7179023958669824443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_163
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 0
+        width: 170
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8ca84c9a891e4110800000000000000
+      internalID: 1246962229946395790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_164
+      rect:
+        serializedVersion: 2
+        x: 1397
+        y: 113
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2229caaf0796c3dc0800000000000000
+      internalID: -3657932863368818142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_165
+      rect:
+        serializedVersion: 2
+        x: 1486
+        y: 18
+        width: 434
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 434808287b370f340800000000000000
+      internalID: 4895540026957399092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_166
+      rect:
+        serializedVersion: 2
+        x: 1595
+        y: 140
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de53ed991d19abd20800000000000000
+      internalID: 3295106406790608365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_167
+      rect:
+        serializedVersion: 2
+        x: 1603
+        y: 0
+        width: 225
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a35b2cdfeafb189c0800000000000000
+      internalID: -3926646641787751110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_168
+      rect:
+        serializedVersion: 2
+        x: 1606
+        y: 196
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ed902a1d915c5170800000000000000
+      internalID: 8168493559333297636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_169
+      rect:
+        serializedVersion: 2
+        x: 1606
+        y: 131
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eb374fe3bb718300800000000000000
+      internalID: 252619066853243878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_170
+      rect:
+        serializedVersion: 2
+        x: 1619
+        y: 189
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18cc503d5d5c91b10800000000000000
+      internalID: 1952809435600899201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_171
+      rect:
+        serializedVersion: 2
+        x: 1630
+        y: 182
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 595a834483eafcc80800000000000000
+      internalID: -8300224031534570091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_172
+      rect:
+        serializedVersion: 2
+        x: 1641
+        y: 175
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 628bd9ba499751840800000000000000
+      internalID: 5194191424683096102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_173
+      rect:
+        serializedVersion: 2
+        x: 1652
+        y: 168
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4adef864cc30382a0800000000000000
+      internalID: -6736536441724080732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_174
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 30
+        width: 255
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdec41ab90aa401f0800000000000000
+      internalID: -1079551051908722977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_175
+      rect:
+        serializedVersion: 2
+        x: 1668
+        y: 220
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dd76eb1e32b6a330800000000000000
+      internalID: 3721858121894100432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_176
+      rect:
+        serializedVersion: 2
+        x: 1681
+        y: 214
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 197677ab6419820f0800000000000000
+      internalID: -1141502772576295023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_177
+      rect:
+        serializedVersion: 2
+        x: 1694
+        y: 207
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c96c5474c31e72200800000000000000
+      internalID: 155340361177613980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_178
+      rect:
+        serializedVersion: 2
+        x: 1699
+        y: 11
+        width: 221
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50a4cb9875a5f6c10800000000000000
+      internalID: 2048955687496337925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_179
+      rect:
+        serializedVersion: 2
+        x: 1705
+        y: 107
+        width: 215
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57b316ea2cce06900800000000000000
+      internalID: 675800264998992757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_180
+      rect:
+        serializedVersion: 2
+        x: 1717
+        y: 266
+        width: 203
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 349faa150c7c57190800000000000000
+      internalID: -7965240737117046461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_181
+      rect:
+        serializedVersion: 2
+        x: 1737
+        y: 0
+        width: 183
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a31532ddd1df2b2a0800000000000000
+      internalID: -6723032989004771014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_182
+      rect:
+        serializedVersion: 2
+        x: 1742
+        y: 355
+        width: 178
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d55feef303e4cad0800000000000000
+      internalID: -2682769871704468011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_183
+      rect:
+        serializedVersion: 2
+        x: 1749
+        y: 140
+        width: 171
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f3ea0b65312df460800000000000000
+      internalID: 7277009086213448692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_184
+      rect:
+        serializedVersion: 2
+        x: 1751
+        y: 362
+        width: 169
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e5dfc164d84e4290800000000000000
+      internalID: -7904300218977364507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_185
+      rect:
+        serializedVersion: 2
+        x: 1757
+        y: 473
+        width: 163
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8f1292b851018220800000000000000
+      internalID: 2486269949749895052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_186
+      rect:
+        serializedVersion: 2
+        x: 1765
+        y: 252
+        width: 155
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3250d4013f9d3f50800000000000000
+      internalID: 6862816440065479228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_187
+      rect:
+        serializedVersion: 2
+        x: 1781
+        y: 485
+        width: 139
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cc677834c70b6d20800000000000000
+      internalID: 3272718093557132486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_188
+      rect:
+        serializedVersion: 2
+        x: 1781
+        y: 382
+        width: 139
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a720f2131fe5208b0800000000000000
+      internalID: -5187479430772096390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_189
+      rect:
+        serializedVersion: 2
+        x: 1786
+        y: 463
+        width: 134
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e985d6995f2d62760800000000000000
+      internalID: 7432860187304482974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_190
+      rect:
+        serializedVersion: 2
+        x: 1863
+        y: 251
+        width: 29
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f07b0fd0bc9ff7380800000000000000
+      internalID: -8971177282191182065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_191
+      rect:
+        serializedVersion: 2
+        x: 1897
+        y: 241
+        width: 23
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a8ebbbc9d1e51390800000000000000
+      internalID: -7848118450080978781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_192
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 75
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 558a5f7e2bb7268b0800000000000000
+      internalID: -5160426214687135659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_193
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 79
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afbb305b9aee53c70800000000000000
+      internalID: 8950322247122533370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_194
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 70
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a20908c479a5c4e60800000000000000
+      internalID: 7947827048272138282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_195
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 76
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba45461cd99560e80800000000000000
+      internalID: -8212778336374205269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_196
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 71
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5093c4d71ad1d38f0800000000000000
+      internalID: -559258199294985979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_197
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 48
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01011b8ad8fe6bd90800000000000000
+      internalID: -7082209972293922800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_198
+      rect:
+        serializedVersion: 2
+        x: 1710
+        y: 0
+        width: 128
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b87d4c38e90cd99d0800000000000000
+      internalID: -2765842809087535221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_199
+      rect:
+        serializedVersion: 2
+        x: 1719
+        y: 0
+        width: 128
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13605453cb6488ea0800000000000000
+      internalID: -5870364340115929551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_200
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 67
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f30b076d6fc6d8120800000000000000
+      internalID: 2417708382383288383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_201
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 71
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 227eea89487f3d8b0800000000000000
+      internalID: -5128483401775519966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_202
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 61
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aad185edbc3c6dcc0800000000000000
+      internalID: -3686543964580078166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_203
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 64
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6569a69e12ab8d3d0800000000000000
+      internalID: -3181588481924491690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_204
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 70
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c04604c9510f3f00800000000000000
+      internalID: 1098598319154151624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_205
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 52
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b9fa5e80e16320f0800000000000000
+      internalID: -1142962263333078604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_206
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 0
+        width: 87
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a501a70e7e02aaf90800000000000000
+      internalID: -6941699695362568102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_207
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 59
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f49743e3a0fafe1a0800000000000000
+      internalID: -6778006455641147057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_208
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 58
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7dc20aebd2b45340800000000000000
+      internalID: 4851699356178500987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_209
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 64
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d53022a4423538cf0800000000000000
+      internalID: -251265738874944675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_210
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 59
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67be47f327be505c0800000000000000
+      internalID: -4249731797430768778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_211
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 0
+        width: 86
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23a657db783629230800000000000000
+      internalID: 3644084483146476082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_212
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 47
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f997a304da356e00800000000000000
+      internalID: 1037299971447560696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_213
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 48
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbdfe1322f5e5c120800000000000000
+      internalID: 2433604001797701052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_214
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 53
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bfffa678b059add0800000000000000
+      internalID: -2474357767067926599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_215
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 45
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a9c4bd5828f1e1c0800000000000000
+      internalID: -4476023702375052888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_216
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 52
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 307498da2b2b40da0800000000000000
+      internalID: -5979457924755798269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_217
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 0
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41c3184397ab91280800000000000000
+      internalID: -9072014944626459628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_218
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 46
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf355bb332fa4ea60800000000000000
+      internalID: 7702473828570846204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_219
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 52
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4192fab28c70e7ed0800000000000000
+      internalID: -2414483793916253932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_220
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 0
+        width: 87
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce18b8e2297432470800000000000000
+      internalID: 8368611225756205548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_221
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 21
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eaf8f443eabdae60800000000000000
+      internalID: 7975236000420526818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_222
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 32
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 634cd8c6a2bd25f30800000000000000
+      internalID: 4562950347736073270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_223
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 43
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4de733f5c89f722d0800000000000000
+      internalID: -3303397420365021484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_224
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 39
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa881863eafcd7a50800000000000000
+      internalID: 6520596182648064175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_225
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 0
+        width: 51
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 471bccea646e67920800000000000000
+      internalID: 2987828594061652340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_226
+      rect:
+        serializedVersion: 2
+        x: 1467
+        y: 31
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 081553d135d8a77b0800000000000000
+      internalID: -5225709029498203776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_227
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 0
+        width: 48
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d5e58c7fbf7d4cf0800000000000000
+      internalID: -266416342540360239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_228
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 0
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 651ecedc614585cf0800000000000000
+      internalID: -263368121280306858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_229
+      rect:
+        serializedVersion: 2
+        x: 1498
+        y: 0
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22b47a899356e9910800000000000000
+      internalID: 1846024195317123874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_230
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 15
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca78d7538a90a66d0800000000000000
+      internalID: -2996571984005068884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Damagepng_231
+      rect:
+        serializedVersion: 2
+        x: 1522
+        y: 0
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52cb9fe375dad9560800000000000000
+      internalID: 7322199159404608549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      UI_Damagepng_0: 4654736007546196918
+      UI_Damagepng_1: -5268770061888258052
+      UI_Damagepng_10: -5293948245900081120
+      UI_Damagepng_100: -3049351359458390422
+      UI_Damagepng_101: 7541592071953383675
+      UI_Damagepng_102: -574245398544553475
+      UI_Damagepng_103: -7513534448425715623
+      UI_Damagepng_104: -403983628687542722
+      UI_Damagepng_105: 6476769229996029660
+      UI_Damagepng_106: -7925582616413350415
+      UI_Damagepng_107: 4581253934238597104
+      UI_Damagepng_108: -8495761550910349231
+      UI_Damagepng_109: -3823530357384187125
+      UI_Damagepng_11: 2885285452666101213
+      UI_Damagepng_110: -1634607337716181697
+      UI_Damagepng_111: 222386777604726370
+      UI_Damagepng_112: 1043125950074348762
+      UI_Damagepng_113: 6687401334852163513
+      UI_Damagepng_114: -8385893978699623488
+      UI_Damagepng_115: -2673450853557073130
+      UI_Damagepng_116: -6337280287915695605
+      UI_Damagepng_117: 309890829312693057
+      UI_Damagepng_118: 8424953044272149775
+      UI_Damagepng_119: -6318941821990041861
+      UI_Damagepng_12: 1595239829619846169
+      UI_Damagepng_120: -1641699523967431530
+      UI_Damagepng_121: -5556350203112202192
+      UI_Damagepng_122: 773117339603572823
+      UI_Damagepng_123: -2199511898855812817
+      UI_Damagepng_124: 1002940020859628571
+      UI_Damagepng_125: -145922196190450176
+      UI_Damagepng_126: 8249386005268315795
+      UI_Damagepng_127: 4482315039969900288
+      UI_Damagepng_128: -5186588800831138835
+      UI_Damagepng_129: 6804286821819251175
+      UI_Damagepng_13: -5646628840029098994
+      UI_Damagepng_130: 6705298441668744176
+      UI_Damagepng_131: 168825451130482652
+      UI_Damagepng_132: 4574271685230276358
+      UI_Damagepng_133: 686418336521285005
+      UI_Damagepng_134: 2878724203981307519
+      UI_Damagepng_135: 8097873742294415259
+      UI_Damagepng_136: 7099602224068941660
+      UI_Damagepng_137: -4765210226528751717
+      UI_Damagepng_138: 2307094079855809918
+      UI_Damagepng_139: 2447367494164149777
+      UI_Damagepng_14: 3402698796670821935
+      UI_Damagepng_140: 2474220084543948287
+      UI_Damagepng_141: -1576357345723855189
+      UI_Damagepng_142: 7073183739970735624
+      UI_Damagepng_143: -738006463459142807
+      UI_Damagepng_144: -801275037413367897
+      UI_Damagepng_145: 1173234457687600351
+      UI_Damagepng_146: 5549505706721593094
+      UI_Damagepng_147: 1387480153754032392
+      UI_Damagepng_148: -6731689866222563272
+      UI_Damagepng_149: 8766717953158569526
+      UI_Damagepng_15: -4574402780460162862
+      UI_Damagepng_150: -5010455775288550393
+      UI_Damagepng_151: -4258043280857390755
+      UI_Damagepng_152: 2556840579599685922
+      UI_Damagepng_153: 2992956711607080613
+      UI_Damagepng_154: 7258226147288093097
+      UI_Damagepng_155: -8622480419320383477
+      UI_Damagepng_156: -2667805098797646474
+      UI_Damagepng_157: -5066138856682696895
+      UI_Damagepng_158: 3607103504170444263
+      UI_Damagepng_159: 946246336748692761
+      UI_Damagepng_16: -8691058402571775404
+      UI_Damagepng_160: -4737036270535599295
+      UI_Damagepng_161: -6119927344611166559
+      UI_Damagepng_162: -7179023958669824443
+      UI_Damagepng_163: 1246962229946395790
+      UI_Damagepng_164: -3657932863368818142
+      UI_Damagepng_165: 4895540026957399092
+      UI_Damagepng_166: 3295106406790608365
+      UI_Damagepng_167: -3926646641787751110
+      UI_Damagepng_168: 8168493559333297636
+      UI_Damagepng_169: 252619066853243878
+      UI_Damagepng_17: 837945084896388382
+      UI_Damagepng_170: 1952809435600899201
+      UI_Damagepng_171: -8300224031534570091
+      UI_Damagepng_172: 5194191424683096102
+      UI_Damagepng_173: -6736536441724080732
+      UI_Damagepng_174: -1079551051908722977
+      UI_Damagepng_175: 3721858121894100432
+      UI_Damagepng_176: -1141502772576295023
+      UI_Damagepng_177: 155340361177613980
+      UI_Damagepng_178: 2048955687496337925
+      UI_Damagepng_179: 675800264998992757
+      UI_Damagepng_18: -2737919064513565434
+      UI_Damagepng_180: -7965240737117046461
+      UI_Damagepng_181: -6723032989004771014
+      UI_Damagepng_182: -2682769871704468011
+      UI_Damagepng_183: 7277009086213448692
+      UI_Damagepng_184: -7904300218977364507
+      UI_Damagepng_185: 2486269949749895052
+      UI_Damagepng_186: 6862816440065479228
+      UI_Damagepng_187: 3272718093557132486
+      UI_Damagepng_188: -5187479430772096390
+      UI_Damagepng_189: 7432860187304482974
+      UI_Damagepng_19: 2759583017054740839
+      UI_Damagepng_190: -8971177282191182065
+      UI_Damagepng_191: -7848118450080978781
+      UI_Damagepng_192: -5160426214687135659
+      UI_Damagepng_193: 8950322247122533370
+      UI_Damagepng_194: 7947827048272138282
+      UI_Damagepng_195: -8212778336374205269
+      UI_Damagepng_196: -559258199294985979
+      UI_Damagepng_197: -7082209972293922800
+      UI_Damagepng_198: -2765842809087535221
+      UI_Damagepng_199: -5870364340115929551
+      UI_Damagepng_2: 6372882258284939518
+      UI_Damagepng_20: -2286457228290399793
+      UI_Damagepng_200: 2417708382383288383
+      UI_Damagepng_201: -5128483401775519966
+      UI_Damagepng_202: -3686543964580078166
+      UI_Damagepng_203: -3181588481924491690
+      UI_Damagepng_204: 1098598319154151624
+      UI_Damagepng_205: -1142962263333078604
+      UI_Damagepng_206: -6941699695362568102
+      UI_Damagepng_207: -6778006455641147057
+      UI_Damagepng_208: 4851699356178500987
+      UI_Damagepng_209: -251265738874944675
+      UI_Damagepng_21: -4183277381907731463
+      UI_Damagepng_210: -4249731797430768778
+      UI_Damagepng_211: 3644084483146476082
+      UI_Damagepng_212: 1037299971447560696
+      UI_Damagepng_213: 2433604001797701052
+      UI_Damagepng_214: -2474357767067926599
+      UI_Damagepng_215: -4476023702375052888
+      UI_Damagepng_216: -5979457924755798269
+      UI_Damagepng_217: -9072014944626459628
+      UI_Damagepng_218: 7702473828570846204
+      UI_Damagepng_219: -2414483793916253932
+      UI_Damagepng_22: 6844754651225685928
+      UI_Damagepng_220: 8368611225756205548
+      UI_Damagepng_221: 7975236000420526818
+      UI_Damagepng_222: 4562950347736073270
+      UI_Damagepng_223: -3303397420365021484
+      UI_Damagepng_224: 6520596182648064175
+      UI_Damagepng_225: 2987828594061652340
+      UI_Damagepng_226: -5225709029498203776
+      UI_Damagepng_227: -266416342540360239
+      UI_Damagepng_228: -263368121280306858
+      UI_Damagepng_229: 1846024195317123874
+      UI_Damagepng_23: -5377434365084447061
+      UI_Damagepng_230: -2996571984005068884
+      UI_Damagepng_231: 7322199159404608549
+      UI_Damagepng_24: -7903152204240228200
+      UI_Damagepng_25: 4490343121400399354
+      UI_Damagepng_26: -2472329460501640156
+      UI_Damagepng_27: 5493978228641161232
+      UI_Damagepng_28: -454153052369909257
+      UI_Damagepng_29: 4212044852096690440
+      UI_Damagepng_3: -7538841165916990877
+      UI_Damagepng_30: 9015650903388407854
+      UI_Damagepng_31: 5909417457923205581
+      UI_Damagepng_32: -353760215185875660
+      UI_Damagepng_33: 2159894405935952227
+      UI_Damagepng_34: -5771598028742748900
+      UI_Damagepng_35: 4760979586128282709
+      UI_Damagepng_36: 6775190968990958665
+      UI_Damagepng_37: -8233488926688197772
+      UI_Damagepng_38: -4797762565961675433
+      UI_Damagepng_39: -5082851694208670763
+      UI_Damagepng_4: -3506990447467836656
+      UI_Damagepng_40: 6036266991585527498
+      UI_Damagepng_41: 1553371532651411766
+      UI_Damagepng_42: -2045091380228386491
+      UI_Damagepng_43: -7468215655412815828
+      UI_Damagepng_44: 2434701589344555869
+      UI_Damagepng_45: 6748720476161128447
+      UI_Damagepng_46: 4943286741352506691
+      UI_Damagepng_47: 2485261015899596073
+      UI_Damagepng_48: -501610020361832465
+      UI_Damagepng_49: -4502233412302085446
+      UI_Damagepng_5: 1986157985570383083
+      UI_Damagepng_50: -3293699293988781941
+      UI_Damagepng_51: 216079737417136875
+      UI_Damagepng_52: 3869698679412944509
+      UI_Damagepng_53: 306005803270878251
+      UI_Damagepng_54: -2213826787729500054
+      UI_Damagepng_55: -487266794035213958
+      UI_Damagepng_56: -8130905646832449417
+      UI_Damagepng_57: 8478130581455836384
+      UI_Damagepng_58: -275914397782244060
+      UI_Damagepng_59: 734136990501031738
+      UI_Damagepng_6: 9105194087391217155
+      UI_Damagepng_60: 938241708817577701
+      UI_Damagepng_61: 5987353649743393747
+      UI_Damagepng_62: 250693375421528207
+      UI_Damagepng_63: 8970071098530815871
+      UI_Damagepng_64: -5894598194419986352
+      UI_Damagepng_65: -4234977817360664351
+      UI_Damagepng_66: 845980587847895543
+      UI_Damagepng_67: 8948440533500856516
+      UI_Damagepng_68: 4834744826308970884
+      UI_Damagepng_69: -8595854316868759637
+      UI_Damagepng_7: 4068537029662159467
+      UI_Damagepng_70: -6219670946726033683
+      UI_Damagepng_71: -2319770081169573822
+      UI_Damagepng_72: 2193190695298793319
+      UI_Damagepng_73: -2633408106833732907
+      UI_Damagepng_74: 3700266502357906223
+      UI_Damagepng_75: 1206726293398327192
+      UI_Damagepng_76: -7306918888731956014
+      UI_Damagepng_77: 3055254805428966136
+      UI_Damagepng_78: 3928036191858695840
+      UI_Damagepng_79: -3451691780360032173
+      UI_Damagepng_8: -346824203391059367
+      UI_Damagepng_80: 3789719274599986403
+      UI_Damagepng_81: -8271510052372805118
+      UI_Damagepng_82: 8641764867019020480
+      UI_Damagepng_83: -1867493682546820330
+      UI_Damagepng_84: -2828925857598705418
+      UI_Damagepng_85: -3137673315532940841
+      UI_Damagepng_86: 6567438277434873517
+      UI_Damagepng_87: -3697752305983506278
+      UI_Damagepng_88: 3627043148446392226
+      UI_Damagepng_89: -7204793293472380873
+      UI_Damagepng_9: 6916885449009131174
+      UI_Damagepng_90: -6554251780197185020
+      UI_Damagepng_91: -6894950925708124114
+      UI_Damagepng_92: -5271254632077447414
+      UI_Damagepng_93: 5716966265175803771
+      UI_Damagepng_94: 1744884305754515661
+      UI_Damagepng_95: -8352481288998764462
+      UI_Damagepng_96: -3924574095052878354
+      UI_Damagepng_97: 5079495784910217162
+      UI_Damagepng_98: -4042287637248766710
+      UI_Damagepng_99: 1450405832861247108
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

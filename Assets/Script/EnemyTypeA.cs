@@ -14,7 +14,7 @@ public class EnemyTypeA : EnemyBase
         if (m_HP <= 0)
         {
             Destroy(m_HPUI);
-            Destroy(gameObject);
+            Death();
         }
     }
     void OnTriggerEnter2D(Collider2D other)

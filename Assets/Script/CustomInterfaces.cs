@@ -4,8 +4,8 @@ namespace CustomInterfaces
 {
     public interface iDamagable
     {
-        public int HP { get; set; }
         void TakeDamage( int _damage);
+        void Death();
     }
     //------------------------------------------------------------------------------------------------------------
     public interface iCanBeLockOn

@@ -282,7 +282,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9af2b052cfe57974e9702b9df9d59120, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_HP: 29025
+  m_deathEffectPrefab: {fileID: 5462576974392705595, guid: b336ceff54bc10f498d11cf58769c14e, type: 3}
   m_Damage: 5
   m_Sprite: {fileID: 1963627177472441337}
   m_SpriteMaterial: {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}

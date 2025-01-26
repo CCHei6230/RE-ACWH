@@ -7,6 +7,7 @@ public class CubicBullet : WeaponBase
     {
         m_speed = 750.0f;
         m_lockOnSpeed = 1.5f;
+        m_damage = 25;
     }
     void FixedUpdate()
     {
