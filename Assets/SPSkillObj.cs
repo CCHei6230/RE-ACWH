@@ -11,9 +11,12 @@ public class SPSkillObj : MonoBehaviour
     {
         if (m_AtkPrefab)
         {
-            Instantiate(m_AtkPrefab);
+            Instantiate(m_AtkPrefab,Camera.main.transform.position - new Vector3(0,0,-15f),Quaternion.identity);
+        }
+        else
+        {
+            Time.timeScale = 1;
         }
         Destroy(gameObject);
-        Time.timeScale = 1;
     }
 }

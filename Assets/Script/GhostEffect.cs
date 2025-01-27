@@ -26,7 +26,16 @@ public class GhostEffect : MonoBehaviour
         while (tmp_LifeTime < m_lifeTimeMax)
         {
             tmp_LifeTime++;
-            tmp_colorA = (1.0f - (float)tmp_LifeTime / (float)m_lifeTimeMax) * m_color.a;
+            if (tmp_LifeTime >1)
+            {
+                tmp_colorA = (1.0f - (float)tmp_LifeTime / (float)m_lifeTimeMax) * m_color.a;
+
+            }
+            else
+            {
+                tmp_colorA = 0;
+            }
+
             tmp_effSR.color = new Color(m_color.r,m_color.g,m_color.b,tmp_colorA);
             yield return new WaitForFixedUpdate();
         }

@@ -7,7 +7,7 @@ public class CubicBullet : WeaponBase
     {
         m_speed = 750.0f;
         m_lockOnSpeed = 1.5f;
-        m_damage = 25;
+        m_damage = 35;
     }
     void FixedUpdate()
     {
@@ -54,9 +54,8 @@ public class CubicBullet : WeaponBase
                         }
                         if (tmp_enemy.HP <= 0)
                         {
-                            tmp_Score.ScoreIncrease(30);
                             tmp_Score.ComboIncrease();
-                            tmp_Score.ExWeaponFinish();
+                            tmp_Score.ExtraFinish(false);
                         }
                         Destroy(transform.gameObject);
                         break;
@@ -75,7 +74,7 @@ public class CubicBullet : WeaponBase
                     if (tmp_enemy.HP <= 0)
                     {
                         tmp_Score.ComboIncrease();
-                        tmp_Score.ExWeaponFinish();
+                        tmp_Score.ExtraFinish(false);
                     }
                     Destroy(Instantiate(m_effectPrefab, tmp_enemy.Sprite.transform.position, Quaternion.identity), 2f);
                     Destroy(transform.gameObject);

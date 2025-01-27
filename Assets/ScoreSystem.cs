@@ -22,9 +22,10 @@ public class ScoreSystem : MonoBehaviour
     [SerializeField]Animator m_comboAnim;   
     IEnumerator CoroutineCombo = null;
     [Header("------------------------------------------------------------------------------------------------------------")]
-    [Header("EX-Weapon")]
-    [SerializeField]int m_ExWeaponCountDown = -1;
-    [SerializeField]Animator m_ExAnim;
+    [Header("Extra")]
+    [SerializeField]int m_ExtraCountDown = -1;
+    [SerializeField]Animator m_ExtraAnim;
+    [SerializeField]TMP_Text m_ExtraText;
     IEnumerator CoroutineExWeapon = null;
     #endregion
     //------------------------------------------------------------------------------------------------------------
@@ -74,7 +75,7 @@ public class ScoreSystem : MonoBehaviour
 
         if (m_combo > 1)
         {
-            m_comboBouns = (m_combo - 1) * 10;
+            m_comboBouns = m_combo  * 10;
         }
         if (m_comboBouns > 50)
         {
@@ -101,11 +102,21 @@ public class ScoreSystem : MonoBehaviour
     #region ExweaponBonus
     void ExweaponBonusUpdate()
     {
-        m_ExAnim.SetBool("In",m_ExWeaponCountDown != -1);
+        m_ExtraAnim.SetBool("In",m_ExtraCountDown != -1);
     }
-    public void ExWeaponFinish()
+    public void ExtraFinish(bool _SPSkill)
     {
-        ScoreIncrease(30);
+        if (_SPSkill)
+        {
+            ScoreIncrease(100);
+            m_ExtraText.text = "SP Skill +" + m_combo*100;
+        }
+        else
+        {
+            ScoreIncrease(30);
+            m_ExtraText.text = "EX-Weapon +30";
+        }
+
         if (CoroutineExWeapon != null)
         {
             StopCoroutine(CoroutineExWeapon);
@@ -115,13 +126,13 @@ public class ScoreSystem : MonoBehaviour
     }
     IEnumerator IEnumerator_ExWeapon()
     {
-        m_ExWeaponCountDown = 0;
-        while (m_ExWeaponCountDown < 120)
+        m_ExtraCountDown = 0;
+        while (m_ExtraCountDown < 120)
         {
-            m_ExWeaponCountDown++;
+            m_ExtraCountDown++;
             yield return  new WaitForFixedUpdate();
         }
-        m_ExWeaponCountDown = -1;
+        m_ExtraCountDown = -1;
     }
     #endregion
     //------------------------------------------------------------------------------------------------------------

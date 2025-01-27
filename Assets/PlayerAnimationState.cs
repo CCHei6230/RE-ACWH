@@ -14,11 +14,6 @@ public class PlayerAnimationState : MonoBehaviour
     readonly int Anim_Damage = Animator.StringToHash("Anim_PlayerDamage");
     readonly int Anim_ShootDone = Animator.StringToHash("Anim_PlayerShootDone");
     public int CurrentState ;
-    public int NextState ;
-    
-    
-    //AnimationClip[] AnimClips;
-
     void Start()
     {
         CurrentState = Anim_Falling;

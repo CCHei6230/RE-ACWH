@@ -76,11 +76,13 @@ public class PlayerBehaviour : MonoBehaviour
             tmp_ToNextPoint.FadeOut();
             FindAnyObjectByType<InGameManager>().Invoke_Restart();
         }
-        m_playerMovement.FaceCheck();
-        m_playerAnimationState.NextState = m_playerAnimationState.NextAnimationState
-            (m_playerWeapons.ShootingCoolDown != -1 || m_playerWeapons.ExAtkCoolDown != -1 );
-        m_playerAnimationState.CurrentState = m_playerAnimationState.NextState;
-        m_playerAnimationState.Animator.CrossFade(m_playerAnimationState.CurrentState,0,0);
+        if (Time.timeScale == 1)
+        {
+            m_playerMovement.FaceCheck();
+            m_playerAnimationState.CurrentState = m_playerAnimationState.NextAnimationState
+                (m_playerWeapons.ShootingCoolDown != -1 || m_playerWeapons.ExAtkCoolDown != -1 );
+            m_playerAnimationState.Animator.CrossFade(m_playerAnimationState.CurrentState,0,0);
+        }
     }
     #endregion
     //------------------------------------------------------------------------------------------------------------

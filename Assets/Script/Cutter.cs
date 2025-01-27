@@ -87,9 +87,8 @@ public class Cutter : WeaponBase
                 m_collision = true;
                 if (tmp_enemy.HP <= 0)
                 {
-                    tmp_Score.ScoreIncrease(30);
                     tmp_Score.ComboIncrease();
-                    tmp_Score.ExWeaponFinish();
+                    tmp_Score.ExtraFinish(false);
                 }
                 break;
         }
@@ -107,9 +106,8 @@ public class Cutter : WeaponBase
                 m_collision = true;
                 if (tmp_enemy.HP <= 0)
                 {
-                    tmp_Score.ScoreIncrease(30);
                     tmp_Score.ComboIncrease();
-                    tmp_Score.ExWeaponFinish();
+                    tmp_Score.ExtraFinish(false);
                 }
                 break;
         }

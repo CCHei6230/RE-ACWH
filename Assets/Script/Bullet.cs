@@ -80,10 +80,6 @@ public class Bullet : WeaponBase
                     var tmp_enemy = other.transform.root.gameObject.GetComponent<EnemyBase>();
                     tmp_enemy.TakeDamage(m_damage);
                     Destroy(Instantiate(m_Effect2Prefab, transform.position, Quaternion.identity), 2f);
-                    if (tmp_enemy.HP <= 0)
-                    {
-                        tmp_Score.ComboIncrease();
-                    }
                     Destroy(this);
                     Destroy(m_rigidbody);
                     break;

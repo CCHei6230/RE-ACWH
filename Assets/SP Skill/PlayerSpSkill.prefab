@@ -679,4 +679,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4ea1e722990677f4e92ed2c093af8b13, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_AtkPrefab: {fileID: 0}
+  m_AtkPrefab: {fileID: 7436649095383076883, guid: 01062f68b3d22964f97a356c8ecc805d, type: 3}

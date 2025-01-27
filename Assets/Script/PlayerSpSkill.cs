@@ -23,6 +23,15 @@ public class PlayerSpSkill : MonoBehaviour
         m_SP = 0;
         m_SPMax = 100;
     }
+
+    void Update()
+    {
+        if (Input.GetKeyDown(KeyCode.F8))
+        {
+            m_SP = m_SPMax;
+        }
+    }
+
     public void Invoke_SPIncrease()
     {
         InvokeRepeating("SPIncrease" , 0 ,1f);
