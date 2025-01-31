@@ -22,16 +22,19 @@ public class CubicBullet : WeaponBase
     }
     protected override void  LockOnShooting()
     {
-        if (m_LifeTime > 3.0f)
+        if (m_LifeTime > 3.0f || (!m_Target && m_LifeTime > 2f))
         {
             Destroy(gameObject);
+            Destroy(Instantiate(m_effectPrefab,transform.position, Quaternion.identity), 2f);
         }
-        m_LifeTime += 5.0f * Time.fixedDeltaTime;
+        m_LifeTime += 3.5f * Time.fixedDeltaTime;
         if (m_Target)
         {
             m_TargetPosition = m_Target.transform.position;
         }
-        transform.position = Vector2.LerpUnclamped(m_StartPosition, m_TargetPosition, m_LifeTime);
+        
+        transform.position = Vector3.MoveTowards
+            (transform.position, m_TargetPosition, 10f * Time.deltaTime);
     }
      //------------------------------------------------------------------------------------------------------------
     #region Collision

@@ -257,8 +257,8 @@ public class PlayerMovement : MonoBehaviour
     }
     bool GroundCheck()
     {
-        Vector3 tmp_posL = new Vector3(m_physicCollider.bounds.min.x, m_groundPos.position.y, m_groundPos.position.z);
-        Vector3 tmp_posR = new Vector3(m_physicCollider.bounds.max.x, m_groundPos.position.y, m_groundPos.position.z);
+        Vector2 tmp_posL = new Vector3(m_physicCollider.bounds.min.x, m_groundPos.position.y);
+        Vector2 tmp_posR = new Vector3(m_physicCollider.bounds.max.x, m_groundPos.position.y);
         var tmp_rayL = Physics2D.Raycast(tmp_posL, Vector2.down, 0.1f, whichIsGround);
         var tmp_rayR = Physics2D.Raycast(tmp_posR, Vector2.down, 0.1f, whichIsGround);
         if (tmp_rayL)
@@ -345,11 +345,11 @@ public class PlayerMovement : MonoBehaviour
                         }
                         else
                         {
-                            m_dashCount = m_dashCountMax - 2;
+                            m_dashCount = m_dashCountMax - 1;
                         }
                     }
                 }
-                if (m_dashCount % 2 == 0)
+                if (m_dashCount % 2 == 0 && !tmp_JumpedAfterDash)
                 {
                     StartCoroutine(m_dashEffect.SpawnEffect(m_SpriteRenderer.transform));
                 }
@@ -491,10 +491,15 @@ public class PlayerMovement : MonoBehaviour
         {
             switch (other.tag)
             {
-                case "Enemy":
+                case "Enemy" :
                     StartCoroutine(IEnumerator_Damage());
                     var Enemy =   other.transform.root.GetComponent<EnemyBase>();
                     GetComponent<PlayerStatus>().TakeDamage(Enemy.Damage);
+                    break;
+                case "EnemyAtk" :
+                    StartCoroutine(IEnumerator_Damage());
+                    var EnemyAtk =   other.transform.root.GetComponent<EnemyAtk>();
+                    GetComponent<PlayerStatus>().TakeDamage(EnemyAtk.Damage);
                     break;
             }
         }
@@ -505,10 +510,15 @@ public class PlayerMovement : MonoBehaviour
         {
             switch (other.tag)
             {
-                case "Enemy":
+                case "Enemy" :
                     StartCoroutine(IEnumerator_Damage());
                     var Enemy =   other.transform.root.GetComponent<EnemyBase>();
                     GetComponent<PlayerStatus>().TakeDamage(Enemy.Damage);
+                    break;
+                case "EnemyAtk" :
+                    StartCoroutine(IEnumerator_Damage());
+                    var EnemyAtk =   other.transform.root.GetComponent<EnemyAtk>();
+                    GetComponent<PlayerStatus>().TakeDamage(EnemyAtk.Damage);
                     break;
             }
         }

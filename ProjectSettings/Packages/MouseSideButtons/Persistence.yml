@@ -22,15 +22,6 @@ MonoBehaviour:
   - Assets/Player
   - Assets/Material
   - Assets/Scenes
-  - Assets/Settings
-  - Assets/Settings/Build Profiles
-  - Assets/Settings/Scenes
-  - Assets/SP Skill/SP_ATK
-  - Assets/Effect
+  - Assets
   - Assets/Enemy
-  - Assets/Map
-  - Assets/Material
-  - Assets/Effect
-  - Assets/Script
-  - Assets/Scenes
-  currentDirIndex: 19
+  currentDirIndex: 10

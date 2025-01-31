@@ -9,6 +9,7 @@ using Unity.Mathematics;
 
 public abstract class EnemyBase : MonoBehaviour , iDamagable,iCanBeLockOn
 {
+    protected Rigidbody2D m_rb;
     [SerializeField] private GameObject m_deathEffectPrefab;
     protected int m_HP = 100;
     protected int m_HPMax = 100;
@@ -33,13 +34,14 @@ public abstract class EnemyBase : MonoBehaviour , iDamagable,iCanBeLockOn
     [SerializeField]protected GameObject m_HPUIPrefab;
     [SerializeField]protected GameObject m_HPUI;
     [SerializeField]protected Image m_HPUIImage;
-
+    [SerializeField]protected Facing m_facing = Facing.L;
     protected void Start()
     {
         m_HP = 100;
         m_HPUI = Instantiate
             (m_HPUIPrefab, GameObject.Find("UI_EnemyHP").transform);
         m_HPUIImage = m_HPUI.transform.GetChild(0).GetComponent<Image>();
+        m_rb = GetComponent<Rigidbody2D>();
     }
 
     IEnumerator IEnumerator_DamageFlash()
@@ -92,7 +94,7 @@ public abstract class EnemyBase : MonoBehaviour , iDamagable,iCanBeLockOn
     }
     public void Death()
     {
-       var tmp_deathEff =  Instantiate(m_deathEffectPrefab, transform.position, Quaternion.identity);
+       var tmp_deathEff =  Instantiate(m_deathEffectPrefab, m_Sprite.transform.position, Quaternion.identity);
        tmp_deathEff.GetComponent<DeathSprite>().SetSprite(m_Sprite);
        Destroy(tmp_deathEff,1f);
         Destroy(gameObject);
