@@ -20,6 +20,7 @@ public class PlayerBehaviour : MonoBehaviour
     [SerializeField] bool m_died = false;
     [SerializeField] Transform m_shootPosition;
     [SerializeField] Transform m_UIEPPosition;
+    [SerializeField] Transform Debug_BossRoomPos;
     #endregion
     //------------------------------------------------------------------------------------------------------------
     #region Start & Updates
@@ -177,6 +178,17 @@ public class PlayerBehaviour : MonoBehaviour
     {
         if (!m_canControl) {return;}
         m_playerLockOnSystem.TargetSlot = null;
+    }
+    #endregion
+    //------------------------------------------------------------------------------------------------------------
+    #region Debug
+    public void Debug_ToBossRoomPos(InputAction.CallbackContext context)
+    {
+        if (!m_canControl) {return;}
+        if (context.started)
+        {
+            transform.position = Debug_BossRoomPos.position;
+        }
     }
     #endregion
 }

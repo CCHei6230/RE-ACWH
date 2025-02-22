@@ -21,11 +21,15 @@ public class SPAtkObj : MonoBehaviour
         switch (other.tag)
         {
             case "Enemy":
-                var tmp_Score = FindFirstObjectByType<ScoreSystem>();
-                tmp_Score.ComboIncrease();
-                tmp_Score.ExtraFinish(true);
+               
                 var tmp_enemy = other.transform.root.gameObject.GetComponent<EnemyBase>();
                 tmp_enemy.TakeDamage(500);
+                if (tmp_enemy.HP <= 0)
+                {
+                    var tmp_Score = FindFirstObjectByType<ScoreSystem>();
+                    tmp_Score.ComboIncrease();
+                    tmp_Score.ExtraFinish(true);
+                }
                 break;
         }
     }

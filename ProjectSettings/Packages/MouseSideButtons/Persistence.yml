@@ -13,15 +13,21 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   directoryHistory:
-  - Assets/Material
-  - Assets/Resources
-  - Assets/Effect
-  - Assets/Audio
   - Assets/Boss
-  - Assets/Scenes
-  - Assets/Player
-  - Assets/Material
-  - Assets/Scenes
+  - Assets
+  - Assets/Boss
+  - Assets
+  - Assets/Boss
   - Assets
   - Assets/Enemy
-  currentDirIndex: 10
+  - Assets
+  - Assets/Boss
+  - Assets/Script
+  - Assets
+  - Assets/Enemy
+  - Assets/Boss
+  - Assets
+  - Assets/Boss
+  - Assets
+  - Assets/Input
+  currentDirIndex: 16

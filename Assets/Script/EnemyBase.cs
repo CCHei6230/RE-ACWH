@@ -11,7 +11,7 @@ public abstract class EnemyBase : MonoBehaviour , iDamagable,iCanBeLockOn
 {
     protected Rigidbody2D m_rb;
     [SerializeField] private GameObject m_deathEffectPrefab;
-    protected int m_HP = 100;
+    [SerializeField]protected int m_HP = 100;
     protected int m_HPMax = 100;
     public int HP
     {
@@ -92,11 +92,11 @@ public abstract class EnemyBase : MonoBehaviour , iDamagable,iCanBeLockOn
         m_HPUIImage.fillAmount = (float)m_HP / (float)m_HPMax;
         m_HPUIImage.color = Color.Lerp(Color.red,Color.yellow, m_HPUIImage.fillAmount);
     }
-    public void Death()
+    public virtual void Death()
     {
        var tmp_deathEff =  Instantiate(m_deathEffectPrefab, m_Sprite.transform.position, Quaternion.identity);
        tmp_deathEff.GetComponent<DeathSprite>().SetSprite(m_Sprite);
        Destroy(tmp_deathEff,1f);
-        Destroy(gameObject);
+       Destroy(gameObject);
     }
 }

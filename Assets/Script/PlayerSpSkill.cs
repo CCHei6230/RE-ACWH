@@ -48,7 +48,7 @@ public class PlayerSpSkill : MonoBehaviour
     {
         if (m_SP < SPMax) { return; }
         m_SP = 0;
-        Instantiate(m_SPSKillPrefab,GameObject.Find("SpSkill").transform);
+        Instantiate(m_SPSKillPrefab,GameObject.Find("Overlayer").transform);
     }
     #endregion
 }

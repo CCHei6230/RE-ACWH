@@ -499,7 +499,7 @@ public class PlayerMovement : MonoBehaviour
                 case "EnemyAtk" :
                     StartCoroutine(IEnumerator_Damage());
                     var EnemyAtk =   other.transform.root.GetComponent<EnemyAtk>();
-                    GetComponent<PlayerStatus>().TakeDamage(EnemyAtk.Damage);
+                    GetComponent<PlayerStatus>().TakeDamage(EnemyAtk.Data.Damage);
                     break;
             }
         }
@@ -518,7 +518,7 @@ public class PlayerMovement : MonoBehaviour
                 case "EnemyAtk" :
                     StartCoroutine(IEnumerator_Damage());
                     var EnemyAtk =   other.transform.root.GetComponent<EnemyAtk>();
-                    GetComponent<PlayerStatus>().TakeDamage(EnemyAtk.Damage);
+                    GetComponent<PlayerStatus>().TakeDamage(EnemyAtk.Data.Damage);
                     break;
             }
         }
