@@ -15,7 +15,7 @@ public class CheckPoint : MonoBehaviour
     }
     void Anim_NextSecen()
     {
-        var tmp_ToNextPoint = FindAnyObjectByType<TeleportToNextPoint>();
+        var tmp_ToNextPoint = FindAnyObjectByType<ToNextPointOrToResult>();
         tmp_ToNextPoint.NextPosition = NextPosition;
         tmp_ToNextPoint.FadeOut();
     }

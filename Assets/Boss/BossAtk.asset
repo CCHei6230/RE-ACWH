@@ -12,4 +12,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 00f5412a716748e38aa6d490e11307e8, type: 3}
   m_Name: BossAtk
   m_EditorClassIdentifier: 
-  Damage: 15
+  Damage: 10

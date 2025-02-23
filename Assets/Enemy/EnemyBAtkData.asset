@@ -12,4 +12,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 00f5412a716748e38aa6d490e11307e8, type: 3}
   m_Name: EnemyBAtkData
   m_EditorClassIdentifier: 
-  Damage: 10
+  Damage: 7

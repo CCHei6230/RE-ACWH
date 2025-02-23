@@ -1,6 +1,7 @@
 using System;
 using CustomEnum;
 using UnityEngine;
+using Random = UnityEngine.Random;
 
 public class Boss  : EnemyBase
 {
@@ -9,22 +10,33 @@ public class Boss  : EnemyBase
     public  Transform AtkPos;
     [SerializeField]  Animator m_Anim;    
     [SerializeField]  PlayerMovement m_Player;
+ 
+
     void Start()
     {
         Destroy(Instantiate(m_spawnEffPrefab,transform.position,Quaternion.identity),1f);
         base.Start();
-        m_HPMax = 7500;
+        m_HPMax = 2500;
         m_HP = m_HPMax;
         m_Player = FindFirstObjectByType<PlayerMovement>();
     }
     void Update()
     {
         HPUpdate();
-        if (m_HP <= 0)
+        m_Anim.SetInteger("HP",m_HP);
+    }
+    void Anim_RandomAnim()
+    {
+        int animCurrent = m_Anim.GetInteger("AtkAnim");
+        Debug.Log(animCurrent);
+        int tmp_rand = Random.Range(0, 3);
+        while (tmp_rand == animCurrent)
         {
-            Destroy(m_HPUI);
-            Death();
+            tmp_rand = Random.Range(0, 3);
         }
+        m_Anim.SetInteger("AtkAnim",tmp_rand);
+        Debug.Log(tmp_rand);
+
     }
     void Anim_Attack(GameObject _AtkPrefab)
     {
@@ -37,6 +49,14 @@ public class Boss  : EnemyBase
     void Anim_AttackSP(GameObject _AtkPrefab)
     {
         Instantiate(_AtkPrefab,m_Player.transform.position,Quaternion.identity);
+    }
+    void Anim_Death()
+    {
+        var tmp_ToResult = FindAnyObjectByType<ToNextPointOrToResult>();
+        tmp_ToResult.ToResult=true;
+        tmp_ToResult.FadeOut();
+        Destroy(m_HPUI);
+        Death();
     }
     void Anim_SetFacing(Facing _facing)
     {

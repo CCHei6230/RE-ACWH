@@ -289,7 +289,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_deathEffectPrefab: {fileID: 5462576974392705595, guid: b336ceff54bc10f498d11cf58769c14e, type: 3}
   m_HP: 100
-  m_Damage: 15
+  m_Damage: 8
   m_Sprite: {fileID: 987215610618565008}
   m_SpriteMaterial: {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
   m_SpriteFlashMaterial: {fileID: 2100000, guid: e73a58f6e2794ae7b1b7e50b7fb811b0, type: 2}
@@ -300,7 +300,7 @@ MonoBehaviour:
   m_spawnEffPrefab: {fileID: 5423518149307732667, guid: 3385d21bd22d81d4f9a3020dc429e977, type: 3}
   m_SPSkillPrefab: {fileID: 6452181064870007710, guid: 58e6d3b3e545aa24c915b9bf4961574d, type: 3}
   AtkPos: {fileID: 0}
-  m_Anim: {fileID: 0}
+  m_Anim: {fileID: 8511908912952653955}
   m_Player: {fileID: 0}
 --- !u!95 &8511908912952653955
 Animator:

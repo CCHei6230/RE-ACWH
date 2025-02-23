@@ -8,6 +8,10 @@ public class ScoreSystem : MonoBehaviour
     #region Member
     [Header("Score")]
     [SerializeField]int m_score = 0;
+    public int Score
+    {
+        get => m_score;
+    }
     [SerializeField]float m_scorePresent = 0; 
     [SerializeField]TMP_Text m_scoreText;
     [SerializeField]Animator m_scoreAnim;

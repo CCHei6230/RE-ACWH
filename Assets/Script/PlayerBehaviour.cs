@@ -72,7 +72,7 @@ public class PlayerBehaviour : MonoBehaviour
             m_playerStatus.Invoke_Death();
             Destroy(gameObject,0.15f);
             
-            var tmp_ToNextPoint = FindAnyObjectByType<TeleportToNextPoint>();
+            var tmp_ToNextPoint = FindAnyObjectByType<ToNextPointOrToResult>();
             tmp_ToNextPoint.NextPosition = transform;
             tmp_ToNextPoint.FadeOut();
             FindAnyObjectByType<InGameManager>().Invoke_Restart();
